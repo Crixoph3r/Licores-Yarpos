@@ -1,0 +1,36 @@
+C:\Users\Fabio 2.0\source\repos\CapaPresentacion\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Fabio 2.0\source\repos\CapaPresentacion\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Fabio 2.0\source\repos\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Fabio 2.0\source\repos\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Fabio 2.0\source\repos\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Fabio 2.0\source\repos\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Fabio 2.0\source\repos\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Fabio 2.0\source\repos\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Fabio 2.0\source\repos\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Fabio 2.0\source\repos\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Fabio 2.0\source\repos\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Fabio 2.0\source\repos\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Fabio\source\repos\YarposPresentacion\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Fabio\source\repos\YarposPresentacion\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Fabio\source\repos\YarposPresentacion\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\YarposPresentacion\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\YarposPresentacion\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Fabio\source\repos\YarposPresentacion\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Fabio\source\repos\LICOOOOORESYARPOS\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Fabio\source\repos\LICOOOOORESYARPOS\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Fabio\source\repos\LICOOOOORESYARPOS\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\LICOOOOORESYARPOS\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\LICOOOOORESYARPOS\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Fabio\source\repos\LICOOOOORESYARPOS\Yarpos 3\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\Yarpos GG\AVANCEEEEEEEEEEEEEEEEEEE YARPOS\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\Yarpos GG\AVANCEEEEEEEEEEEEEEEEEEE YARPOS\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\Yarpos GG\AVANCEEEEEEEEEEEEEEEEEEE YARPOS\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\Yarpos GG\AVANCEEEEEEEEEEEEEEEEEEE YARPOS\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\Yarpos GG\AVANCEEEEEEEEEEEEEEEEEEE YARPOS\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\Yarpos GG\AVANCEEEEEEEEEEEEEEEEEEE YARPOS\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\LicoreriaYarpos\LicoreriaYarposPrograma\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\LicoreriaYarpos\LicoreriaYarposPrograma\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\LicoreriaYarpos\LicoreriaYarposPrograma\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\LicoreriaYarpos\LicoreriaYarposPrograma\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\LicoreriaYarpos\LicoreriaYarposPrograma\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\eyare\Desktop\DESARROLLO DE SOFTWARE\LicoreriaYarpos\LicoreriaYarposPrograma\LICORERIA YARPOS DESARROLLO SOFTWARE\CapaEntidad\obj\Debug\CapaEntidad.pdb
